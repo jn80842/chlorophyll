@@ -10,7 +10,7 @@
          "optimize-distributor.rkt"
          "arrayforth.rkt"
 	 "arrayforth-def.rkt"
-         "arrayforth-optimize.rkt"
+         ;; "arrayforth-optimize.rkt"
          "arrayforth-print.rkt"
          "visitor-arrayaccess.rkt"
          "visitor-desugar.rkt"
